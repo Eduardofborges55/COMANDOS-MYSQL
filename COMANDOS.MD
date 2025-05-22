@@ -16,7 +16,7 @@ PARA COMENTAR A TABELA CRIADA
   CPF VARCHAR (100),
   Email VARCHAR (100),
   Telefone VARCHAR (100)
-)**/
+)**/ use (*) entre as barras uma vez só vai ficar cinza nunca esqueça de fechar (*)/ tire os entre parenteses NO COMEÇO É (/*) NO FINAL (*/) 
 
 // DELETE FROM Vendas = DELETA AS INFORMAÇÕES ADICIONADAS NA TABELA
 
